@@ -1,4 +1,4 @@
-# Akash & Drashti — Wedding Invitation
+# Kabir & Ananya — Wedding Invitation
 
 A cinematic digital wedding invitation:
 - Tap-to-enter cover with background music
