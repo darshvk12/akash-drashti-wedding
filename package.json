@@ -1,0 +1,9 @@
+{
+  "name": "akash-drashti-wedding-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Akash weds Drashti — Digital Wedding Invitation",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
